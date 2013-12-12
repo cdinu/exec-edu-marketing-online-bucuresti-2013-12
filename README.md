@@ -1,4 +1,9 @@
-exec-edu-marketing-online-bucuresti-2013-12
-===========================================
+Elemente introductive pentru marketing online
+=============================================
 
-Slides for Marketing Online presentation @execedu in 12.12.2013
+Slide-uri
+
+Autor - [Cristian Dinu](http://cristiandinu.info)
+
+Creative commons CC BY-SA-NC
+
